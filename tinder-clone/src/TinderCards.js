@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import "./TinderCards.css";
 import TinderCard from "react-tinder-card";
-import elon from "./images/190717-Elon-Musk_16bfef37f8b_medium.jpg"
+
 
 function TinderCards() {
     const [people, setPeople] = useState([
