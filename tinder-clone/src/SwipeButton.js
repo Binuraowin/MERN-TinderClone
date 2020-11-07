@@ -15,6 +15,7 @@ function SwipeButton() {
             </IconButton>
             <IconButton className="swipeButtons_left">
                 <CloseIcon fontSize="large"/>
+                
             </IconButton>
             <IconButton className="swipeButtons_star">
                 <StarRateIcon fontSize="large"/>
